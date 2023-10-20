@@ -1,5 +1,5 @@
 # Можно посмотреть тут:
-### [realty.dboro.su](https://github.com/user/repo/blob/branch/other_file.md)
+### [realty.dboro.su](https://realty.dboro.su)
 
 # Установка
 
